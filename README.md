@@ -11,5 +11,5 @@ Challenge files for Nullsec's Introduction to OSINT workshop! Password will be r
 4. Solve the challenges and...
 5. Submit your answers in the Google Form (Link in the Submission Link.txt file)!
    
-![image](https://github.com/Kairos-T/Nullsec-OSINT-CTF/assets/80029462/3ef16e55-e369-4a66-93c7-f80421318b9e)
+   ![image](https://github.com/Kairos-T/Nullsec-OSINT-CTF/assets/80029462/3ef16e55-e369-4a66-93c7-f80421318b9e)
 
