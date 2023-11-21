@@ -1,6 +1,8 @@
 # Nullsec-OSINT-CTF
 Challenge files for Nullsec's Introduction to OSINT workshop! Password will be released during the workshop :D
 
+Additionally, some tools you might find useful can be found [here](https://github.com/Kairos-T/Nullsec-OSINT-CTF/blob/main/Tools.md)!
+
 ## Instructions:
 1. Download the [Challenge (Distrib).zip](https://github.com/Kairos-T/Nullsec-OSINT-CTF/blob/main/Challenges%20(Distrib).zip) file:
    
